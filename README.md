@@ -1,4 +1,5 @@
-# 🚆 Meri Train – Indian Rail Seat Tracker
+
+# <img src="/ic_launcher_round.png" width="64" alt="Meri Train – Meri Yatra Ka Sathi">Meri Train – Meri Yatra Ka Sathi</img>
 
 **Meri Train** is a powerful and practical app designed for Indian Railway travelers — especially those holding **Waitlisted** or **RAC** tickets. It helps users identify **live seat availability**, track **coach positions**, and analyze **chart data** in real-time, even after receiving the chart-preparation SMS.
 
@@ -28,19 +29,16 @@
 
 ## 📱 Download APK
 
-[![Download APK](https://img.shields.io/badge/Download-APK-blue.svg?style=for-the-badge\&logo=android)](https://your-apk-link.com)
-
-> ⚠️ APK download link will be updated here soon.
+Wanna give it a spin? Grab the APK and test it out yourself:
+<br><br>[![Download APK](https://img.shields.io/badge/Download-APK-blue.svg?style=for-the-badge\&logo=android)](https://github.com/rathorerahul586/meri_train_demo/releases/download/v1.0.0_meri_train/app-release.apk)
 
 ---
 
 ## 📸 Screenshots
 
-*(You can upload these into a `screenshots/` folder in your repo)*
-
-| Seat Availability              | Coach Position                      | Chart Read SMS                 |
+| Chart Read SMS              | Seat Availability                      | Coach Position                 |
 | ------------------------------ | ----------------------------------- | ------------------------------ |
-| ![](screenshots/seat_view.gif) | ![](screenshots/coach_position.gif) | ![](screenshots/chart_sms.gif) |
+| <img src="/chart-message.gif" width="200"/> | <img src="/seat-position.gif" width="200"/> | <img src="/available-berths.gif" width="200"/> |
 
 ---
 
